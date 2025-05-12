@@ -13,7 +13,6 @@ Thumbs.db       # Windows
 
 # Archivos de configuración de editores
 .vscode/
-.idea/
 
 # Archivos temporales del sistema
 *.tmp
